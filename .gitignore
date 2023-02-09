@@ -1,0 +1,10 @@
+#Build
+logs/
+target/
+
+#IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+*.log
